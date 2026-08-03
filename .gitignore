@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+quantum/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Configuraciones de editores (VS Code, PyCharm, etc.)
+.vscode/
+.idea/

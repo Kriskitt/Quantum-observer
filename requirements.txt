@@ -1,0 +1,11 @@
+# Motor gráfico e interfaz
+pygame>=2.5.0
+
+# Visión por computadora y procesamiento de imágenes
+opencv-python>=4.8.0
+
+# Inteligencia artificial (Gaze Tracking / Face Mesh)
+mediapipe>=0.10.0
+
+# Manejo de matrices numéricas (dependencia de OpenCV y MediaPipe)
+numpy>=1.24.0
